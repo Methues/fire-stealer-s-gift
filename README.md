@@ -1,2 +1,2 @@
 # fire-stealer-s-gift
-A set of open source knowledge management tools (mainly Obsidian) and supporting workflow tutorials (in Chinese), co-created by the Firestealer Society
+A set of open source workflow tutorials (in Chinese) for knowledge management tools (mainly Obsidian), co-created by the Firestealer Society
